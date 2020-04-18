@@ -1,0 +1,232 @@
+.fiveDayColor {
+
+    background-color: transparent;
+    color: white;
+    float: left;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10%;
+    font-family: 'Ramabhadra', sans-serif;
+    font-size: small;
+}
+
+#fiveDaybg:hover{
+    color: burlywood;
+}
+
+.bgcolor {
+    padding: 20px;
+    /* background-color:rgba(149, 172, 161, 0.589); */
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+body{
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(https://www.thenocturnaltimes.com/wp-content/uploads/2018/05/32387170_1933506876712436_7548744260711874560_o.jpg);
+}
+#fiveDaybg{
+    background-image: url(https://wallpapercave.com/wp/wp2732981.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+   
+.navbar{
+    background-image: url(https://wallpapercave.com/wp/wp2732981.png);
+    background-attachment: fixed;
+}
+
+.footer{
+    background-image: url(https://wallpapercave.com/wp/wp2732981.png);
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+  }
+
+.weather {
+  margin-bottom: 200px;
+}
+
+#searchNowBox{
+    background-image: url(https://wallpapercave.com/wp/wp2732981.png);   
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+
+#card1{
+background-image: url(https://consequenceofsound.net/wp-content/uploads/2019/11/post-malone-2020-runaway-tour-dates-tickets.png?w=807);
+background-position: center;
+background-size: cover;
+font-family: 'IBM Plex Mono', cursive;
+border: 2px black;
+filter: grayscale(50%);
+-webkit-text-stroke-width: 1.5px;
+-webkit-text-stroke-color: black;
+}
+
+#card2{
+background-image: url(https://i1.wp.com/drummagazine.com/wp-content/uploads/2017/11/Mona-Tavakoli-FEATURED-WEB.jpg?fit=1500%2C750&ssl=1);
+background-position: center;
+background-size: cover;
+font-family: 'IBM Plex Mono', cursive;
+border: 2px black;
+filter: grayscale(50%);
+-webkit-text-stroke-width: 1.5px;
+-webkit-text-stroke-color: black;
+}
+
+#card3{
+background-image: url(https://seoulbeats.com/wp-content/uploads/2019/05/20190519_seoulbeats_blackpink-384x253.jpg);
+background-position: center;
+background-size: cover;
+font-family: 'IBM Plex Mono', cursive, bold;
+border: 2px black;
+
+filter: grayscale(50%);
+-webkit-text-stroke-width: 1.5px;
+-webkit-text-stroke-color:black;
+
+}
+
+.carousel {
+  max-width: 600px;
+  max-height: auto;
+  overflow: hidden;
+}
+
+#about {
+    background-image: url(https://www.kbronze.com/wp-content/uploads/2014/11/pebble-background-texture-300x212.jpg);
+    background-position: fixed;
+    background-attachment: fixed;
+    font-family: 'Luckiest Guy', cursive;
+    border: 2px black;
+
+}
+
+#cImg1 {
+  border: 2px groove black;
+}
+
+#cImg2 {
+  border: 2px groove black;
+}
+
+#cImg3 {
+  border: 2px groove black;
+}
+
+/* carousel text */
+.cText {
+  font-size: 24px;
+  font-family: "Overpass", sans-serif;
+  font-weight: bolder;
+  padding-top: 10px;
+}
+/* carousel caption */
+#cCaption {
+  align-items: left;
+}
+
+#searchcontainer {
+    background-image: url(https://blogmedia.evbstatic.com/wp-content/uploads/wpmulti/sites/3/2018/07/31094915/music-venue-reputation.jpg);   
+    background-position: center;
+    height: 130px;
+
+}
+@viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+}
+
+#cards-title{
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.modal-header{
+    background-color: rgb(83, 83, 83);
+    color: whitesmoke;
+    border-bottom: none;
+}
+.modal-body{
+    background-color: rgb(2, 2, 2);
+    border-style: none;
+}
+
+.modal-footer{
+    background-color: rgb(2, 2, 2);
+    border-style: none;
+}
+
+.topTixFont{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: burlywood;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.topTix{
+    margin: 20px 10px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: peru;
+    background-color: rgb(34, 34, 34);
+    
+}
+
+.topTix:hover{
+    zoom: 115%;
+    border-width: 2px;
+    border-color: rgb(243, 200, 147);
+    color: burlywood;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+
+#modal-table{
+    border: 1px solid rgb(185, 101, 17);
+    color: whitesmoke;
+    padding: 10px;
+    margin: 20px 10px;
+}
+
+.modal-table-header{
+    color: black;
+    background-color: rgb(185, 101, 17);
+}
+
+#modal-table tr{
+    border-color: rgb(185, 101, 17);
+    border-style: dotted;
+    border-width: 1px;
+    padding: 10px 10px;
+}
+
+#modal-table td:nth-child(1){
+    background-color: rgb(43, 43, 43);
+    width: 30%;
+    padding: 5px 10px;
+}
+
+table tbody { 
+    height:450px; 
+    overflow-y:scroll; 
+    display:block; 
+}
+
+.modal-table-header{ 
+    display:inline-table; 
+    width:-webkit-fill-available;
+}
+
+.modal-table-header th:nth-child(1){
+    width:30%;
+}
