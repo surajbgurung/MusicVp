@@ -27,6 +27,10 @@ Tasks and Roles
 
 ```
 
+## Demostration
+![employee](./music-vp.gif)
+
+
 ## Future Development
 
 * Extend our services to outside of NY
@@ -42,3 +46,5 @@ Deepali Jain
 Phillip Manapat
 
 ```
+
+* Main Repository Link ( https://github.com/PManapat/Music-VP )
