@@ -27,8 +27,25 @@ Tasks and Roles
 
 ```
 
-## Demostration
-![employee](./music-vp.gif)
+## Demostration 
+
+### Landing Page
+
+![musicVp](./readmeimage/landing.png)
+
+### Home Page
+
+![musicVp](./readmeimage/mv.png)
+
+### User can Search Event and Plan the event on the basis of weather (5 days Weather Forecast)
+
+![musicVp](./readmeimage/search.png)
+
+![musicVp](./readmeimage/event.png)
+
+### Full Demo
+
+![musicVp](./readmeimage/music-vp.gif)
 
 
 ## Future Development
