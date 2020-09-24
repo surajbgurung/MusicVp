@@ -31,21 +31,21 @@ Tasks and Roles
 
 ### Landing Page
 
-![musicVp](./readmeimage/landing.png)
+![musicVp](./landing.png)
 
 ### Home Page
 
-![musicVp](./readmeimage/mv.png)
+![musicVp](./mv.png)
 
 ### User can Search Event and Plan the event on the basis of weather (5 days Weather Forecast)
 
-![musicVp](./readmeimage/search.png)
+![musicVp](./search.png)
 
-![musicVp](./readmeimage/event.png)
+![musicVp](./event.png)
 
 ### Full Demo
 
-![musicVp](./readmeimage/music-vp.gif)
+![musicVp](./music-vp.gif)
 
 
 ## Future Development
