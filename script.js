@@ -131,10 +131,7 @@ $("#datesTix").click();
     });
   });*/
 
-  //want to put hover effect
-  //$("#weather").text.hover(function(){
-  //  $(this).fadeOut(1);
-  // $(this).fadeIn(1);
+  
 
   var weeknd = "theweeknd";
   var billie = "billieeilish";
